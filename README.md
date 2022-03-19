@@ -1,6 +1,7 @@
 # Checkpoint 1 de Disruptive Architectures Iot, Iob E Ia
 
 **Guilherme Beck Lobo**
+#
 **Jhoctan de Deus Teixeira**
 
 **Turma: 2TDSF**
